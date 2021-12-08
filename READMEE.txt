@@ -1,0 +1,3 @@
+1. There are 3 methods: open addressing, separate and chaining. In the first 2 the bad side is that you can not delete the elements and also when increasing the load to the hash table the time spent for the processing will increase. In the third one during the process of the table it requires more storage. Also the chaining is faster that is why it is bet
+2. Stack can be used, where we can manipulate things and it won’t require time and storage. 
+3. Machine oriented language, it’s a lower type of language. There will be used less storage and it will work faster.
